@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .compospoty-container {
     background-color: #f5f5f5;
     padding: 20px;
@@ -7,4 +8,15 @@
     font-size: 24px;
     color: #000000;
     margin-bottom: 20px;
+=======
+.compospoty-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  .compospoty-heading {
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 20px;
+>>>>>>> e89993c6e1f38602245c8850b5015e2493ed58bb
   }
