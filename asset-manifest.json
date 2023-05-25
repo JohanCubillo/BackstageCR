@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BackstageCR/static/css/main.f3a87121.css",
+    "main.js": "/BackstageCR/static/js/main.bc18853c.js",
+    "static/js/787.f030b51d.chunk.js": "/BackstageCR/static/js/787.f030b51d.chunk.js",
+    "static/media/back.png": "/BackstageCR/static/media/back.c35e65d3ce7c23cec1ef.png",
+    "static/media/insta.png": "/BackstageCR/static/media/insta.42c20aec6fa7337c01ce.png",
+    "static/media/contact.png": "/BackstageCR/static/media/contact.e5e30c8ce14b3f8fa8e1.png",
+    "static/media/spoti.png": "/BackstageCR/static/media/spoti.0b012e997b6a988e08ec.png",
+    "static/media/slick.svg": "/BackstageCR/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BackstageCR/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BackstageCR/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/BackstageCR/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/BackstageCR/index.html",
+    "main.f3a87121.css.map": "/BackstageCR/static/css/main.f3a87121.css.map",
+    "main.bc18853c.js.map": "/BackstageCR/static/js/main.bc18853c.js.map",
+    "787.f030b51d.chunk.js.map": "/BackstageCR/static/js/787.f030b51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3a87121.css",
+    "static/js/main.bc18853c.js"
+  ]
+}
